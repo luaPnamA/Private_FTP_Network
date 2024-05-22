@@ -6,13 +6,13 @@ This project will guide you through setting up your own private FTP network usin
 
 ### Automated Setup
 
-You can automate the entire setup process by downloading and running the `setup_ftp_network.sh` script. 
+You can automate the entire setup process by downloading and running the `run.sh` script. 
 
 #### Steps:
-1. Download the `setup_ftp_network.sh` file.
+1. Download the `run.sh` file.
 2. Run the script with root privileges:
    ```sh
-   sudo bash setup_ftp_network.sh
+   sudo bash run.sh
    ```
    
 ### Manual Setup
